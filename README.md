@@ -19,7 +19,7 @@
 ![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%201%202025-07-18%20144814.png)
 ![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%202%202025-07-18%20183508.png)
 ![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%205%202025-07-18%20183743.png)
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot_10_2025-07-18_185215.png)
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%208%202025-07-18%20184316.png)
 ---
 
 ### Задание 2
@@ -58,7 +58,7 @@
 ---
 
 #### ответ
-
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%2011%202025-07-22%20120034.png)
 
 
 
