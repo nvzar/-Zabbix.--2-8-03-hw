@@ -81,7 +81,8 @@
 
 ### Ответ
 
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot .png)
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot.png)
+
 
 
 `Задание 5* со звёздочкой
