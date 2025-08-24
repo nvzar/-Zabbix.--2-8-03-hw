@@ -81,7 +81,7 @@
 
 ### Ответ
 
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot.png)
+![screen-dashboard](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screen-dashboard.png)
 
 
 
