@@ -16,10 +16,10 @@
  ---
  ### Ответ
 
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%201%202025-07-18%20144814.png)
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%202%202025-07-18%20183508.png)
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%205%202025-07-18%20183743.png)
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%208%202025-07-18%20184316.png)
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/img/screenshot%201%202025-07-18%20144814.png)
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/img/screenshot%202%202025-07-18%20183508.png)
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/img/screenshot%205%202025-07-18%20183743.png)
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/img/screenshot%208%202025-07-18%20184316.png)
 ---
 
 ### Задание 2
@@ -62,7 +62,7 @@
 
 #### ответ
 
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%2020%202025-07-22%20122744.png) 
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/img/screenshot%2020%202025-07-22%20122744.png) 
 
 ---
 
@@ -77,7 +77,7 @@
 
 ### Ответ
 
-![screen-dashboard](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screen-dashboard.png)
+![screen-dashboard](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/img/screen-dashboard.png)
 
 
 
@@ -94,6 +94,6 @@
 
 ### Ответ
 
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%2023%202025-07-25%20122307.png)
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%2024%202025-07-25%20122714.png)
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%2025%202025-07-25%20132348.png)
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/img/screenshot%2023%202025-07-25%20122307.png)
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/img/screenshot%2024%202025-07-25%20122714.png)
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/img/screenshot%2025%202025-07-25%20132348.png)
