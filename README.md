@@ -63,7 +63,8 @@
 ![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%2014%202025-07-22%20120250.png) 
 ![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%2015%202025-07-22%20120347.png) 
 ![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%2018%202025-07-22%20120813.png)
-![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%2019%202025-07-22%20121021.png) 
+![скриншот](https://github.com/nvzar/-Zabbix.--2-8-03-hw/blob/main/screenshot%2020%202025-07-22%20122744.png) 
+
 ### Задание 4
 
 `Создайте свой собственный дашборд.
